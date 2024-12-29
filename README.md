@@ -13,3 +13,8 @@ Usage:
 grrs <pattern> <path>
 ```
 
+With logs:
+
+```shell
+env RUST_LOG=info grrs <pattern> <path>
+```
